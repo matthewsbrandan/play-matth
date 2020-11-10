@@ -1,7 +1,7 @@
 # Play Matth
 ![Play Matth](https://matthewsworld.me/img/logo-pmatth.jpg)
 
-**Description:** Gerenciamento de músicas autorais, contendo cadastro de letra, história(Para contextualizar), cifra e aúdio.
+**Description:** Gerenciamento de músicas autorais com filtragem de álbuns, cadastro de letra, história por trás da música, cifra e aúdio.
 
 **Link:** [Acesse o Site.](https://www.matthewsworld.me/pmatth/)
 
