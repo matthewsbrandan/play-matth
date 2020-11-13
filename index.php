@@ -566,12 +566,7 @@
             </div>
         </div>
     </div>
-    <?php
-        include('../function/ctrlm.php');
-        include('../function/mnav.php');
-        include('../function/arty.php');
-        include('../function/wmatth.php');
-    ?>
+    <?php include('../function/global.php'); ?>
 </body>
 </html>
 <script src="js/popper.min.js"></script>
